@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1>Hey I'm Prem! <br/> <a href="https://www.linkedin.com/in/prem-prajapati-8b4016198/">IT Analyst</a></h1>
+
+<h2>Current projects in development:</h2>
+
+- <b>File Integrity Monitor (Not uploaded to GitHub yet)</b>
+
+<h2>Planned future projects:</h2>
+
+- <b>Password Generator</b>
+- <b>Steam Recording Deletion Tool</b>
+
 
 <!--
 **MerpP/merpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
