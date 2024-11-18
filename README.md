@@ -2,7 +2,7 @@
 
 <h2>Current projects in development:</h2>
 
-- <b>File Integrity Monitor (Not uploaded to GitHub yet)</b>
+- <b>[File Integrity Monitor](https://github.com/MerpP/File-Integrity-Monitor)</b>
 
 <h2>Planned future projects:</h2>
 
