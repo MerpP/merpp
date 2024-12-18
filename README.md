@@ -12,6 +12,10 @@
 
 - <b>Password Generator</b>
 
+<h2><a href="https://github.com/MerpP/homelab/tree/main">My Homelab</a></h2>
+
+
+
 <!--
 **MerpP/merpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
