@@ -2,11 +2,10 @@
 
 <h2>Current projects in development:</h2>
 
-- <b>[File Deletion Tool](https://github.com/MerpP/File-Deletion-Tool)</b>
-
 <h2>Completed projects:</h2>
 
 - <b>[File Integrity Monitor](https://github.com/MerpP/File-Integrity-Monitor)</b>
+- <b>[File Deletion Tool](https://github.com/MerpP/File-Deletion-Tool)</b>
 
 <h2>Planned future projects:</h2>
 
